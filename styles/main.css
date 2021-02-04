@@ -66,6 +66,18 @@ h2{
   padding-left: 10px;
 }
 
+.productwrapper{
+  max-width: 960px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+}
+
+span{
+  font-weight: bold;
+}
+
 main{
   padding: 1em;
 }
