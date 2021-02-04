@@ -78,10 +78,12 @@ table{
 
 table th{
   text-align: start;
+  border-bottom: 1px solid #303030;
+
 }
 
 table thead, table tbody{
-  border-bottom: 1px solid #303030;
+
 }
 
 table th.slim{
