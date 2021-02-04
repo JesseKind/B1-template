@@ -82,10 +82,6 @@ table th{
 
 }
 
-table thead, table tbody{
-
-}
-
 table th.slim{
   width: 100px;
 }
@@ -177,6 +173,8 @@ button{
 }
 
 .sidy-by-side{
+  display: flex;
+  justify-content: space-between;
 }
 
 .description{
